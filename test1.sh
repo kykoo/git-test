@@ -1,6 +1,3 @@
-
-edited!
-
 #! /bin/sh
 
 env >>/tmp/test.log
